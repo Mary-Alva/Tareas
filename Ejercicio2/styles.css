@@ -1,0 +1,36 @@
+*{
+   background-color: rgb(220, 224, 245);
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    text-align: center ;
+    font-size: 80px;
+
+}
+h2{
+    text-align: center;
+font-size: 40px;
+}
+#parrafo-inicial{
+    font-size: 40px;
+}
+.terminos-a-definir{
+    text-align: center;
+    font-size: 30px;
+}
+
+.imagenes-ubicacion{
+    text-align: center;
+}
+#Mi-foto{
+    border-radius: 60%;
+}
+
+.centrado{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
